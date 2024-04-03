@@ -1,4 +1,10 @@
 <template>
 <h1>Welcome to my portfolio!</h1>
-<p>Just a small personnal project i do on my free-time, this portfolio will tell you more about my self -a passionnate young software engineer-, my experiences and my creations.</p>
+<h2>Who i am</h2>
+<p>I am Jérémi, a passionate IT engineer from Auxerre, a small city located in Bourgogne Franche-Comté, France.</p>
+<p>Freshly graduated from EPSI engineering school and with three years of experiences, i wish upon putting my passion to use in a company.</p>
+<p>I am fairly familiar with quite a number of tools and languages, as i like to think variety is a strong point of the work of developper, however, i think my favorite technologies so far are JavaScript (and his frameworks) and Python.</p>
+<p>If you are looking for a young motivated software engineer feel free to contact me!</p>
+<h2>Where you are</h2>
+<p>You are actually visiting my portfolio, a place where i expose my (non confidential) works and projects.</p>
 </template>
