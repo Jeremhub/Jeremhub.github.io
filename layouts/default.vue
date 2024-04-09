@@ -38,6 +38,15 @@ h2 {
   text-align: center;
 }
 
+h3 {
+  text-align: center;
+}
+
+hr {
+  border: none;
+  color: #414c50;
+}
+
 nav {
   background-color: #414c50;
   color: #fff;
